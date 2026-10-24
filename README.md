@@ -3,10 +3,12 @@
 > 내가 너 자바스! 🫵
 > SOPT 39기 WEB 자바스크립트 스터디
 
+<br><br>
 ## 📅 진행 시간
 
 매주 화요일 22:30
 
+<br><br>
 ## 👍 스터디 방식
 
 - 매주 선정된 발표자 1명은 문제 풀이 또는 해당 주제와 관련된 심화 내용 미니 세미나를 진행합니다.
@@ -14,7 +16,8 @@
 - 스터디 전까지 최소 3명 이상의 아티클에 배운 점, 질문, 피드백 등을 댓글로 남깁니다.
 - 발표자는 스터디 전날까지 PR로 퀴즈를 출제합니다.
 - 모든 스터디원은 스터디 전까지 PR 리뷰로 퀴즈 풀이를 남깁니다.
-
+  
+<br><br>
 ## 📝 제출 규칙
 
 ### 🌳 브랜치
@@ -45,17 +48,20 @@
 - 퀴즈 제출 시 PR 템플릿에 문제를 복사해 작성해주세요.
 - `main` 브랜치로의 merge는 스터디가 끝난 뒤 일괄 진행합니다.
 
+<br><br>
 ## 🏡 스터디원
 
-| GitHub |
-| --- |
-| [@zzos0014](https://github.com/zzos0014) |
-| [@2516391](https://github.com/2516391) |
-| [@kimxeesoo](https://github.com/kimxeesoo) |
-| [@comehere43](https://github.com/comehere43) |
-| [@Junho73](https://github.com/Junho73) |
-| [@gksgPDnjs](https://github.com/gksgPDnjs) |
+| [<img src="https://github.com/yumin-kim2.png" width="120" alt="yumin-kim2" />](https://github.com/yumin-kim2) | [<img src="https://github.com/zzos0014.png" width="120" alt="zzos0014" />](https://github.com/zzos0014) | [<img src="https://github.com/2516391.png" width="120" alt="2516391" />](https://github.com/2516391) |
+| :---: | :---: | :---: |
+| [yumin-kim2](https://github.com/yumin-kim2) | [zzos0014](https://github.com/zzos0014) | [2516391](https://github.com/2516391) |
 
+<br>
+
+| [<img src="https://github.com/kimxeesoo.png" width="120" alt="kimxeesoo" />](https://github.com/kimxeesoo) | [<img src="https://github.com/comehere43.png" width="120" alt="comehere43" />](https://github.com/comehere43) | [<img src="https://github.com/Junho73.png" width="120" alt="Junho73" />](https://github.com/Junho73) | [<img src="https://github.com/gksgPDnjs.png" width="120" alt="gksgPDnjs" />](https://github.com/gksgPDnjs) |
+| :---: | :---: | :---: | :---: |
+| [kimxeesoo](https://github.com/kimxeesoo) | [comehere43](https://github.com/comehere43) | [Junho73](https://github.com/Junho73) | [gksgPDnjs](https://github.com/gksgPDnjs) |
+
+<br><br>
 ## 📚 커리큘럼
 
 | 주차 | 학습 범위 | 내용 |
